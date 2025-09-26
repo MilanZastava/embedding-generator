@@ -1,0 +1,5 @@
+{
+  "name": "Embedding Generator",
+  "description": "Generate and index embeddings from text and images using state-of-the-art ML models. This application simulates the generation process in the browser.",
+  "requestFramePermissions": []
+}
